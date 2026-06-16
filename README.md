@@ -12,7 +12,7 @@
   <a href="mailto:a.said2@gju.edu.jo">
     <img src="https://img.shields.io/badge/Email-a.said2@gju.edu.jo-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="PASTE_YOUR_LINKEDIN_LINK_HERE">
+  <a href="linkedin.com/in/ayah-said2">
     <img src="https://img.shields.io/badge/LinkedIn-Ayah%20Said-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -98,7 +98,7 @@ Android mobile application for the GJU Consultation and Training Center, support
   <a href="mailto:a.said2@gju.edu.jo">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="PASTE_YOUR_LINKEDIN_LINK_HERE">
+  <a href="linkedin.com/in/ayah-said2">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
