@@ -90,15 +90,4 @@ Android mobile application for the GJU Consultation and Training Center, support
 - Firebase-based mobile systems  
 - Full-stack project development  
 
----
 
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:a.said2@gju.edu.jo">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="linkedin.com/in/ayah-said2">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
